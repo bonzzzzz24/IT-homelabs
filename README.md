@@ -76,6 +76,8 @@ OU=Users
 OU=Servers  
 
 
+
+
 ✅ OUs being created
 <img width="753" height="538" alt="Organizational Unit" src="https://github.com/user-attachments/assets/749bb53c-8d44-4a8a-aaea-9f6039876ca6" />
 
@@ -93,6 +95,8 @@ Create sample users (e.g., jdoe, asmith)
 Create Security Groups under IT OU
 
 📸 Screenshots to include:
+
+
 
 
 ✅ Creating a new user
@@ -121,7 +125,9 @@ Enable Prohibit access to Control Panel
 
 Link GPO to the appropriate OU
 
-📸 Screenshots to include:
+
+
+
 ✅ Group Policy Management Console
 <img width="1043" height="823" alt="Group policy management console" src="https://github.com/user-attachments/assets/429e4f36-afea-46db-b294-d242f576c687" />
 
@@ -139,6 +145,7 @@ Login as a domain user
 Confirm policy is applied (Control Panel disabled)
 
 Confirm user is under correct OU
+
 
 
 ✅ Logged-in user screen
