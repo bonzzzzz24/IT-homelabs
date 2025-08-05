@@ -46,11 +46,17 @@ Restart server after installation
 ✅ Add Roles and Features wizard
 <img width="1268" height="890" alt="Add roles and features" src="https://github.com/user-attachments/assets/69481fdf-731c-400d-9ea9-599ca24476ec" />
 
+
+
 ✅ Choosing AD DS role
 <img width="796" height="557" alt="Active  Directory Domain Services" src="https://github.com/user-attachments/assets/a877aabe-7fa3-40a2-b3d9-2c0a8b712b9d" />
 
+
+
 ✅ Domain configuration
 <img width="1043" height="772" alt="image" src="https://github.com/user-attachments/assets/65d43dc4-d412-466f-bba1-1589ddae8ac3" />
+
+
 
 ✅ Post-installation reboot
 <img width="1263" height="876" alt="Prerequisites" src="https://github.com/user-attachments/assets/64219738-4660-4554-9000-050d811e6b87" />
